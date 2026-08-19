@@ -41,29 +41,33 @@
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Activity & Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedMedenioglu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Muhammed's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedMedenioglu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MuhammedMedenioglu&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedMedenioglu&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedMedenioglu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Muhammed's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedMedenioglu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
 ### 📬 Connect With Me
 
-<div align="left">
+<p align="left">
   <a href="mailto:medenioglu50@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-medenioglu50%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  &nbsp;
   <a href="https://github.com/MuhammedMedenioglu">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-MuhammedMedenioglu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</div>
+</p>
 
 <br/>
 
